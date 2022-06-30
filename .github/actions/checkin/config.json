@@ -1,10 +1,10 @@
 {
     "domains": [
         {
-            "domain": "",
+            "domain": "中国国际机场.com",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "161695949@.com",
+                "passwd": "12345678",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
